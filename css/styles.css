@@ -201,7 +201,7 @@ hr {
 
 .menu-bar{
  position: fixed;
- margin-left:50%;
+ margin-left:55%;
  z-index: 9;
  background: #E4F9F5;
 }
@@ -210,8 +210,4 @@ hr {
   margin: 30px;
   color: #007580;
   text-decoration: none;
-}
-
-.head-container{
-
 }
