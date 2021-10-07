@@ -201,7 +201,8 @@ hr {
 
 .menu-bar{
  position: fixed;
- margin-left:55%;
+ margin-left:60%;
+ padding: 20px
  z-index: 9;
  background: #E4F9F5;
 }
