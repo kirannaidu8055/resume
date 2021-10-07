@@ -1,0 +1,217 @@
+a:hover{
+  color: black;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #E4F9F5;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted;
+  border-width: 0.8rem;
+  border-bottom: none;
+  margin: 2rem auto;
+  color: #66BFBF;
+}
+
+.sub-title {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  margin-bottom: 100px;
+}
+
+.middle-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #64C9CF;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-cloud-1 {
+  position: absolute;
+  right: 16%;
+  bottom: 5%;
+}
+
+.middle-cloud-2 {
+  position: relative;
+  right: 30%;
+  bottom: 10%;
+}
+
+.middle-cloud-3 {
+  position: relative;
+  left: 120%;
+  bottom: 10%;
+}
+
+.middle-cloud-4 {
+  position: relative;
+  right: 30%;
+  bottom: 10%;
+}
+
+.down-cloud {
+  position: relative;
+  left: 35%;
+  bottom: 10%;
+}
+
+.unique-designs {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: 2;
+}
+
+.fast-responsive {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: 2;
+}
+
+.ui-ux {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: 2;
+}
+
+.work-ethics {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: 2;
+}
+
+.about {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.contact-me {
+  margin-top: 100px;
+  margin-bottom: 200px;
+  line-height: 2;
+}
+
+.skills {
+  margin-bottom: 100px;
+}
+
+.footer-link {
+  margin: 30px;
+  color: #11999E;
+}
+
+.registered {
+  color: white;
+}
+
+.BUTTON_JEL {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 10px;
+  line-height: 10px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 12px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.menu-bar{
+ position: fixed;
+ margin-left:50%;
+ z-index: 9;
+ background: #E4F9F5;
+}
+
+.menu-link{
+  margin: 30px;
+  color: #007580;
+  text-decoration: none;
+}
+
+.head-container{
+
+}
